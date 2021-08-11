@@ -1,7 +1,5 @@
-import math
-
 '''Hola soy yo '''
 
-print( 'hola soy yo x2 jaja')
+print('hola soy yo x2 jaja')
 
-#si
+# si es un comentario
