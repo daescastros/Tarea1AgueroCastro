@@ -1,6 +1,9 @@
 import Tarea_micros as tm
 import random
-
+# ERR1 x2: Los test debian de pasar, sus test de caso negativo fallan
+# ERR2 x2: Los test de caso positivo no prueba que el array resultado sea el
+# correcto
+# NOTA: 87.87
 ''' Este test revisa los métodos del código de Tarea_micros.py
 Se espera que los métodos de nombre terminado
 en _true pasen, y los terminados en _false fallen.
